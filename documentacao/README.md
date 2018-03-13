@@ -1,0 +1,1 @@
+# Documentação com especificações técnicas
